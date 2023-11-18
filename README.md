@@ -4,11 +4,11 @@ This project is a web application for a clothing store built using Django, a hig
 
 ## Features
 
-- User authentication: Users can create an account, log in, and log out.
-- Product browsing: Users can browse through the available clothing items and view details such as price, size, and color.
-- Shopping cart: Users can add items to their shopping cart and proceed to checkout.
-- Order management: Users can view their order history and track the status of their orders.
-- Admin interface: Store administrators can add, edit, and remove products, as well as manage orders and customer accounts.
+- **User authentication:** Users can create an account, log in, and log out.
+- **Product browsing:** Users can browse through the available clothing items and view details such as price, size, and color.
+- **Shopping cart:** Users can add items to their shopping cart and proceed to checkout.
+- **Order management:** Users can view their order history and track the status of their orders.
+- **Admin interface:** Store administrators can add, edit, and remove products, as well as manage orders and customer accounts.
 
 ## Installation
 
